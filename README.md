@@ -17,3 +17,5 @@ cmake ..
 make
 ctest
 ./bank_sqlite
+This project is intended as a small but realistic backend demo
+for junior / trainee / C++ developer positions.
